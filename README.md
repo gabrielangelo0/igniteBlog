@@ -26,3 +26,6 @@ Confira algumas imagens e funcionalidades desse projeto:
 <img src="src/assets/screenshots/screen3-mobile.png">
 
 <p>E sistema de aplaudir comentário ou até excluí-lo dinamicamente.</p>
+
+## Visite o site:
+<a href="https://ignite-blog-gabriel.netlify.app/" title="Ignite Blog">Ignite Blog</a>
